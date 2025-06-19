@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div div .quote-font {
+    font-size: 80px !important;
+    font-family: Impact
+}
+div p{
+    font-size: 35px;
+}
+div .rdm-btn:hover{
+background-color: green !important;
+}
